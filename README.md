@@ -2,7 +2,7 @@
 
 A pop-art Tetris game with an original folk chiptune soundtrack, built as a single self-contained HTML file.
 
-**Play:** https://margmarg.github.io/pop-tetris-game/
+**Play:** https://margmarg.github.io/pop-tetris-oct-21/
 
 ## Controls
 
